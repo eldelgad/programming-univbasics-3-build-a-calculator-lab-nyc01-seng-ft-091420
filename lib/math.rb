@@ -35,7 +35,7 @@ end
 
 def square_root(num)
 
-  sum = num.sqrt
+  sum = Math.sqrt(num)
   return sum
 
 end
